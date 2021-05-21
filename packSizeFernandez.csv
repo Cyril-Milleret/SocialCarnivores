@@ -1,0 +1,47 @@
+Continent,Location,Method,Season,Pack size,Uncertainty (SD or SE),n,Source,Notes
+Eurasia,"Apennines, IT",SNT,winter,3.7,1.2,9,Ciucci and Boitani 1999,
+Eurasia,"Apennines, IT",DO/EH/SNT,winter (Nov.–Apr.),3.8,1.1,19,Apollonio et al. 2004,
+Eurasia,"Bialowieza,",DO/EH/RT/SNT,winter,3.8,(2.7–5.0),29,Okarma et al.,
+Eurasia,"Bia?owieza, PL",DO/RT/SNT,winter,4.6,1.8,31,Jedrzejewski et al. 2000,
+Eurasia,"Bialowieza, PL-BY",DO/EH/RT/SNT,winter,4.4,1,16,Jedrzejewski et al. 2002,
+Eurasia,"Bialowieza, PL-BY",RT/SNT,winter (Jan.–Mar.),4.6, ± 1.0,11,Jedrzejewski et al.,
+Eurasia,"Bialowieza, PL",DO/RT/SNT,winter (Nov.),3.8,0.3,NA,Schmidt et al.,
+Eurasia,"Bialowieza, PL",DO/RT/SNT,winter (Mar.),3.2,0.2,NA,Schmidt et al.,
+Eurasia,"Bieszczady, PL",SNT,winter (Nov.),5.6,,20,Smietana and,
+Eurasia,"Bieszczady, PL",SNT,winter (Apr.),3.9,,20,Smietana and,
+Eurasia,Bulgaria,Misc/Q,winter (Mar.),2.7,,159,Genov et al. 2010,
+Eurasia,"Carpathian,Mtns, PL",DO/SNT,winter,4,1.5,25,Nowak et al. 2008,
+Eurasia,Estonia,Q,winter (Nov.),4.6,,154,Valdmann et al.,
+Eurasia,Estonia,Q,winter  (Feb.),2.1,,154,Valdmann et al.,
+Eurasia,Kazakhstan,DO/SNT,winter (Oct.–Dec.),4.2,,34,Heptner and,
+Eurasia,Kazakhstan,DO/SNT,winter (Jan.–Feb.),2.2,,34,Heptner and,
+Eurasia,Northern Spain,DO/SNT,winter (Nov.),4.9,,160,This study,
+Eurasia,Northern Spain,DO/SNT,winter (Apr.),3.8,,160,This study,
+Eurasia,"Scandinavia,",DO/SNT,winter,6.3,,21,Wabakken et al. 2001,
+Eurasia,"Scandinavia,",DO/RT/SNT,winter (Nov.–Apr.),4.1,2.2,14,Sand et al. 2012,
+Eurasia,"Apennines, IT",DO/EH,summer (May–Oct.),4.4,4.4,14,Apollonio et al. 2004,
+Eurasia,"Bialowieza, PL-BY",Misc/RT,summer (Sep.),6,1.3,11,Jedrzejewski et al.,
+Eurasia,Bulgaria,Misc/Q,summer–fall (Oct.),4.7,,159,Genov et al. 2010,
+Eurasia,"Carpathian, Mtns, PL",DO/EH/RT/TS,late summer,4.7,1.8,21,Nowak et al. 2008,
+Eurasia,Northern Spain,DO,summer (Jul.–Oct.),3.1,1.3,43,This study,
+Eurasia,Northern Spain,DO,summer (Jul.–Oct.),4,1.9,40,This study,
+Eurasia,"Apennines, IT",NIG,year round,5.6,2.4,76,Caniglia et al. 2014,
+Eurasia,Israel,DO/RT,year round,3.2,2.4,139,Hefner and Geffen 1999,
+North America,North America,DO/RT/SNT,winter,5.9,1.4,NA,Fuller et al. 2003;,
+North America,"Alaska, US",DO/RT/SNT,winter,9.2,3.2,12,Dale et al. 1995; Table 1,
+North America,"Alberta, CA",DO/RT,winter (Feb.–Mar.),8.6,3.2,16,Kuzyk et al. 2006;,
+North America,"Algonquin, ON, CA",DO/RT/SNT,winter (Feb.),4.2,1.5,14,Patterson et al. 2004; Table 1,
+North America,"British Columbia, CA",SNT,late winter,6.4,0.3,8,Bergerud and Elliot 1998 ,
+North America,"British Columbia, CA",SNT,late winter,4.4,0.2,13,Bergerud and Elliot 1998,
+North America,"Brooks Range, AK, US",DO/RT/SNT,late winter  (mid Apr.),5.2,3,72,Adams et al. 2008; Table 2,"25 packs, 5 years"
+North America,"Idaho, US",Misc/RT,winter (year end),8,2.8,24,Ausband et al. 2014,?2 wolves (2009)
+North America,"Idaho, US",Misc/RT,winter (year end),7,3.4,20,Ausband et al. 2014,?2 wolves (2010)
+North America,"Ontario, CA",DO/RT/SNT,winter,4.3,2.4,42,Kittle et al 2015;,"20 localities, 3"
+North America,"Wisconsin, US",RT/SNT,winter,2.6,0.9,1.092,Wydeven et al. 2009,28 years
+North America,"Wisconsin, US",RT/SNT,winter,5.2,2.5,1.092,Wydeven et al. 2009,28 years
+North America,"Yukon, CA",DO/RT/SNT,winter (Jan.–Mar.),2.7,0.2,195,Hayes et al. 2003;,
+North America,"Yukon, CA",DO/RT/SNT,winter (Jan.–Mar.),5.6,0.6,195,Hayes et al. 2003; Table 5,
+North America,"Idaho, US",NIG,summer (Jun.–Aug.),13,6,5,Stenglein et al. 2011; Table 3,
+North America,"Idaho, US",DO/RT,summer (Jun.–Aug.),10.8,2.7,5,Stenglein et al. 2011; Table 3,
+North America,"Alberta, CA",DO/RT/SNT,fall,7.7,2.8,NA,Webb et al. 2011,
+North America,"Brooks Range, AK, US",DO/RT,fall,7.6,4,63,Adams et al. 2008; Table 2,"25 packs, 5 years"
